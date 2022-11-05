@@ -3,7 +3,7 @@
 - 👀 I'm interested in Data Science and Machine Learning
 - 📚 I'm an undergraduate student of Computer Science at Federal University Of Western Pará (UFOPA)
 
-I was a scholarship student of the Programa de Educação Tutorial (PET), in which he developed research in the area of social network analysis in conjunction with the Applied Computing Laboratory (LACA) of UFOPA through a data mining approach, using machine learning techniques, natural language processing, web scraping etc. I am currently an APEX Development Trainee at the Tribunal de Contas da União (TCU), working with Database, SQL and PL/SQL.
+I was a scholarship student of the Programa de Educação Tutorial (PET), in which he developed research in the area of social network analysis in conjunction with the Applied Computing Laboratory (LACA) of UFOPA through a data mining approach, using machine learning techniques, natural language processing, web scraping etc. I am currently an APEX Development intern at the Tribunal de Contas da União (TCU), working with Database, SQL and PL/SQL.
 
 <div>
   <a href="https://github.com/luizsfjr">
