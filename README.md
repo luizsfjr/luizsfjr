@@ -3,7 +3,7 @@
 - 👀 I'm interested in Data Science and Machine Learning
 - 📚 I'm an undergraduate student of Computer Science at Federal University Of Western Pará (UFOPA)
 
-I was a scholarship student of the Programa de Educação Tutorial (PET), in which he developed research in the area of social network analysis in conjunction with the Applied Computing Laboratory (LACA) of UFOPA through a data mining approach, using machine learning techniques, natural language processing, web scraping etc. I am currently an Data Analytics Intern at Enmbraer, working with Power BI, Pentaho Data Integration and Python.
+I was a scholarship student of the Programa de Educação Tutorial (PET), in which he developed research in the area of social network analysis in conjunction with the Applied Computing Laboratory (LACA) of UFOPA through a data mining approach, using machine learning techniques, natural language processing, web scraping etc. I am currently an Data Analytics Intern at Embraer, working with Power BI, Pentaho Data Integration and Python.
 
 <div>
   <a href="https://github.com/luizsfjr">
