@@ -1,9 +1,9 @@
 ## Hey there! I'm Luiz Carlos 
 
-- 👀 I'm interested in Data Science and Machine Learning
-- 📚 I'm an undergraduate student of Computer Science at Federal University Of Western Pará (UFOPA)
+- 👀 I'm interested in Data Science, Data Analysis, Data Engineering and Machine Learning
+- 📚 I have a degree in Computer Science by The Federal University Of Western Pará (UFOPA)
 
-I was a scholarship student of the Programa de Educação Tutorial (PET), in which he developed research in the area of social network analysis in conjunction with the Applied Computing Laboratory (LACA) of UFOPA through a data mining approach, using machine learning techniques, natural language processing, web scraping etc. I am currently an Data Analytics Intern at Embraer, working with Power BI, Pentaho Data Integration and Python.
+I was a scholarship student of the Programa de Educação Tutorial (PET), in which he developed research in the area of social network analysis in conjunction with the Applied Computing Laboratory (LACA) of UFOPA through a data mining approach, using machine learning techniques, natural language processing, web scraping etc. I am currently a Data Analyst at Embraer, working with Power BI, Pentaho Data Integration, Python, Google BigQuery, SQL and many others tools related to data ecosystem.
 
 <div>
   <a href="https://github.com/luizsfjr">
