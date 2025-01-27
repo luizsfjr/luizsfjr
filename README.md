@@ -1,9 +1,10 @@
-## Hey there! I'm Luiz Carlos 
+## Hey there! My name is Luiz Carlos, I'm a Data Analyst / Analytics Engineer and this is portifolio with some personal projects. Welcome and enjoy it!!
 
-- 👀 I'm interested in Data Science, Data Analysis, Data Engineering and Machine Learning
-- 📚 I have a degree in Computer Science by The Federal University Of Western Pará (UFOPA)
+- I like to explore the whole data ecossystem, so here you will find Data Analysis, Data Engineering and Data Scientist projects.  
+- I have a degree in Computer Science by The Federal University Of Western Pará (UFOPA) and I took the Machine Learning course in the postgraduate at the Federal University of Pernambuco (UFPE)
+- I am engaged in social activities related to the Education, so here you will find projects in this area.
 
-I was a scholarship student of the Programa de Educação Tutorial (PET), in which he developed research in the area of social network analysis in conjunction with the Applied Computing Laboratory (LACA) of UFOPA through a data mining approach, using machine learning techniques, natural language processing, web scraping etc. I am currently a Data Analyst at Embraer, working with Power BI, Pentaho Data Integration, Python, Google BigQuery, SQL and many others tools related to data ecosystem.
+In my current position, I am responsible for developing dashboards, data pipelines and supporting areas in the data-driven culture. To do this, I use tools such as SQL, Power BI, Power Query, Pentaho Data Integration (PDI), Python, Google Cloud Platform and Excel. 
 
 <div>
   <a href="https://github.com/luizsfjr">
@@ -16,7 +17,7 @@ I was a scholarship student of the Programa de Educação Tutorial (PET), in whi
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Luiz-jupýter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Luiz-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Lu-Deadpool" height="150" width="250" src="https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif">
+  <img align="right" alt="Lu-Deadpool" height="150" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRmanc0ZGo3YmxjcWdtcTh6aWtpNWY0M3RzdWJrMnY3YnJlYnNuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gN27K98gXfnvEJy/giphy.gif">
 </div>
 
   ## 
