@@ -1,7 +1,7 @@
-## Hey there! My name is Luiz Carlos, I'm a Data Analyst / Data Engineer and this is portifolio with some personal projects. Welcome and enjoy it!!
+## Hey there! My name is Luiz Carlos, I'm a Data Analyst / Data Engineer and this is my portifolio with some personal projects. Welcome and enjoy it!!
 
 - I like to explore the whole data ecossystem, so here you will find Data Analysis, Data Engineering and Data Scientist projects.  
-- I have a degree in Computer Science by The Federal University Of Western Pará (UFOPA) and I took the Machine Learning course in the postgraduate at the Federal University of Pernambuco (UFPE)
+- I have a degree in Computer Science by The Federal University Of Western Pará (UFOPA) and I took a Machine Learning course in the postgraduate at the Federal University of Pernambuco (UFPE)
 - I am engaged in social activities related to the Education, so here you will find projects in this area.
 
 In my current position, I am responsible for developing dashboards, robust data pipelines and supporting areas in the data-driven culture. To do this, I use tools such as SQL, Power BI, Power Query, Pentaho Data Integration (PDI), Python, Google Cloud Platform and Excel. 
